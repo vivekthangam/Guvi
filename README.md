@@ -1,1 +1,1 @@
-Motive of this set of programe is improve coding performance.
+Motive of this set of program is improve coding performance.
