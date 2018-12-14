@@ -1,4 +1,5 @@
-a=[1,3,2,3,1,2,3,4,3]
+N=input()
+a = [input() for x in range(N)]
 b=[]
 for i in a:
     count=0
